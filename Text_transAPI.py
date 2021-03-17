@@ -5,6 +5,8 @@ import json,os,time,sys
 from hashlib import md5
 import pandas as pd
 
+#copyright:likai
+
 # 中文：zh 英文：en 日语：jp  韩语：kor
 def getBaiduTransResult(query,from_lang,to_lang):
     # Set your own appid/appkey.
